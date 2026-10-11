@@ -1,6 +1,6 @@
 # Miroslav Myrha
 
-I build web applications and the tests that keep them working. Ten years in IT, the last five in test automation.
+I build web applications and the tests that keep them working. Ten years in IT.
 
 **What I work with:** Vue, Nuxt, TypeScript, Django, PostgreSQL · Playwright, Cypress, CI/CD · Claude Code, MCP servers and local models as coding agents.
 
