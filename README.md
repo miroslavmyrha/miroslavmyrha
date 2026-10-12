@@ -2,6 +2,8 @@
 
 I build web applications and the tests that keep them working. Small steps, each one verified. AI tools speed up the writing, tests decide what is done.
 
+I also play with open-source models: I run them locally as coding agents and check what they can really do.
+
 **What I work with:** Vue, Nuxt, TypeScript, Django, PostgreSQL · Playwright, Cypress, CI/CD · Claude Code, MCP servers and local models as coding agents.
 
 ## Open source
