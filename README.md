@@ -4,9 +4,9 @@ I work as an SDET at [RECETOX](https://www.recetox.muni.cz/) (Masaryk University
 
 I also play with open-source models: I run them locally on an Intel Arc B70, as coding agents and for analyses, and check what they can really do.
 
-**What I work with:** Vue, Nuxt, TypeScript, Django, PostgreSQL · Playwright, Cypress, CI/CD · Claude Code, MCP servers and local models as coding agents · Debian, for its stability and predictability.
+**What I work with:** Vue, Nuxt, TypeScript, Python, Django, PostgreSQL, shell scripting · Playwright, Cypress, CI/CD · Claude Code, MCP servers and local models as coding agents · Debian, for its stability and predictability.
 
-**What I am learning:** React, deeper Python and shell scripting.
+**What I am learning:** React.
 
 Outside of code I play electric guitar.
 
