@@ -6,6 +6,8 @@ I also play with open-source models: I run them locally, as coding agents and fo
 
 **What I work with:** Vue, Nuxt, TypeScript, Django, PostgreSQL · Playwright, Cypress, CI/CD · Claude Code, MCP servers and local models as coding agents.
 
+**What I am learning:** React.
+
 ## Open source
 
 - [cypress-mcp](https://github.com/miroslavmyrha/cypress-mcp): MCP server that lets an AI assistant read Cypress specs and the results of the last test run
