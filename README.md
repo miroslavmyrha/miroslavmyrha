@@ -8,6 +8,8 @@ I also play with open-source models: I run them locally, as coding agents and fo
 
 **What I am learning:** React.
 
+I like playing electric guitar, and I run experiments on an Intel Arc B70.
+
 ## Open source
 
 - [cypress-mcp](https://github.com/miroslavmyrha/cypress-mcp): MCP server that lets an AI assistant read Cypress specs and the results of the last test run
