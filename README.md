@@ -1,6 +1,6 @@
 # Miroslav Myrha
 
-I build web applications and the tests that keep them working. Small steps, each one verified. AI tools speed up the writing, tests decide what is done.
+I work as an SDET at [RECETOX](https://www.recetox.muni.cz/) (Masaryk University). I build web applications and the tests that keep them working. Small steps, each one verified. AI tools speed up the writing, tests decide what is done.
 
 I also play with open-source models: I run them locally, as coding agents and for analyses, and check what they can really do.
 
