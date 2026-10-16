@@ -8,7 +8,7 @@ I also play with open-source models: I run them locally, as coding agents and fo
 
 **What I am learning:** React, plus some Python and shell scripting.
 
-I like playing electric guitar, and I run experiments on an Intel Arc B70.
+I like playing electric guitar, and I run experiments on an Intel Arc B70. I like Debian for its stability and predictability.
 
 ## Open source
 
