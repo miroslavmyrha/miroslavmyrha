@@ -6,7 +6,7 @@ I also play with open-source models: I run them locally, as coding agents and fo
 
 **What I work with:** Vue, Nuxt, TypeScript, Django, PostgreSQL · Playwright, Cypress, CI/CD · Claude Code, MCP servers and local models as coding agents.
 
-**What I am learning:** React.
+**What I am learning:** React, plus some Python and shell scripting.
 
 I like playing electric guitar, and I run experiments on an Intel Arc B70.
 
