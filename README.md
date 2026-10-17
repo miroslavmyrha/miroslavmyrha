@@ -6,7 +6,7 @@ AI writes code faster than people do. It writes bugs faster too. So the model dr
 
 I run open-weight models locally on an Intel Arc B70: as coding agents, for analysis, and to find where they break.
 
-**Work with:** Vue, Nuxt, TypeScript, Python, Django, PostgreSQL, shell scripting · Playwright, Cypress, CI/CD · Claude Code, MCP servers, local models as coding agents · Debian, because it is stable and does what it did yesterday.
+**Work with:** Vue, Nuxt, TypeScript, Python, Django, some Symfony, PostgreSQL, shell scripting · Playwright, Cypress, CI/CD · Claude Code, MCP servers, local models as coding agents · Debian, because it is stable and does what it did yesterday.
 
 **Learning:** React.
 
